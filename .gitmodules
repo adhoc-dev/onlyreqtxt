@@ -32,3 +32,8 @@
 	path = oca/web
 	url = git@github.com:oca/web.git
 	branch = 13.0
+
+[submodule "ingadhoc/product"]
+	path = ingadhoc/product
+	url = git@github.com:ingadhoc/product.git
+	branch = 13.0
